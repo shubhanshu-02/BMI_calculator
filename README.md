@@ -3,7 +3,7 @@
 
 # BMI Calculator 💪
 
-A fluter mobile application use to calculate Body-Mass-Index ration of a person.
+A flutter mobile application used to calculate Body-Mass-Index ration of a person.
 
 ## How to Run the Project
 
